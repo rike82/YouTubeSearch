@@ -53,4 +53,29 @@ Search Output Layout
   }
 }
 
+Was steckt in dem Parameter regioCode = 'US'
+Ja, mit "relevant" in Bezug auf den Parameter regionCode ist hauptsächlich gemeint, dass die Videos in der angegebenen Region (in deinem Fall die USA) auf irgendeine Weise für Nutzer in dieser Region wichtig oder populär sind. Relevanz bezieht sich auf verschiedene Faktoren, die auf das Konsumverhalten der Nutzer in dieser Region basieren.
+
+Hier sind die wichtigsten Faktoren, die die Relevanz definieren:
+1. Konsumverhalten der Nutzer:
+
+    Wie oft ein Video von Nutzern in dieser Region angeschaut wird.
+    Engagement: Videos, die viele Likes, Kommentare und Shares von Nutzern aus der Region bekommen, werden als relevanter eingestuft.
+    Suchanfragen: Wenn viele Nutzer in den USA nach bestimmten Themen (z. B. "health advice") suchen, werden Videos, die diese Keywords enthalten, höher priorisiert.
+
+2. Lokale Trends und Empfehlungen:
+
+    Regionale Trends: YouTube berücksichtigt lokale Trends, z. B. welche Videos gerade in einer bestimmten Region viral gehen oder häufig angesehen werden.
+    Empfehlungen: YouTube empfiehlt Nutzern in einer Region Inhalte basierend auf den Interessen, die in dieser Region vorherrschen.
+
+3. Beliebtheit:
+
+    Ein Video, das in der USA oft angesehen wird oder auf der Startseite von Nutzern in den USA angezeigt wird, hat eine höhere Wahrscheinlichkeit, in der Suchergebnisseite aufzutauchen, auch wenn es ursprünglich in einem anderen Land hochgeladen wurde.
+    Beliebte Videos in der Region werden ebenfalls basierend auf den Interaktionen priorisiert (z. B. Likes, Kommentare, Shares).
+
+4. Sprache und kultureller Kontext:
+
+    Videos in der Sprache, die in der Region am häufigsten gesprochen wird, oder Inhalte, die für die kulturellen Interessen der Region relevant sind, werden ebenfalls als relevanter angesehen.
+    Ein Video auf Englisch wird für die USA höher gewichtet als ein Video in einer anderen Sprache, sofern es um gleiche Suchbegriffe geht.
+
 
